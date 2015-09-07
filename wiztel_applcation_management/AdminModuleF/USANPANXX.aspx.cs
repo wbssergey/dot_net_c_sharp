@@ -9,7 +9,7 @@ using System.Data;
 using System.Text;
 using System.Collections;
 
-public partial class AdminModuleF_USANPXNXX : System.Web.UI.Page
+public partial class AdminModuleF_USANPANXX : System.Web.UI.Page
 {
     Class1 objAdmin = new Class1();
     DataSet dsMainTables = new DataSet();
